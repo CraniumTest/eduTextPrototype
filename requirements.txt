@@ -1,0 +1,4 @@
+Flask==2.1.2
+transformers==4.30.1
+torch==2.0.1
+googletrans==4.0.0-rc1
